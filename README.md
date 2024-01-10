@@ -1,5 +1,4 @@
 # Lungs-CT-Scan-to-detect-Covid-19
-
 # **Project Title: Lungs CT Scan to Detect COVID-19**
 
 **Overview:**
