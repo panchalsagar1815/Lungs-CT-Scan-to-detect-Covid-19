@@ -1,4 +1,3 @@
-
 # **Project Title: Lungs CT Scan to Detect COVID-19**
 
 **Overview:**
