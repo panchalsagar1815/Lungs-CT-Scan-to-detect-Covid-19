@@ -1,6 +1,6 @@
 # Lungs-CT-Scan-to-detect-Covid-19
 
-**Project Title: Lungs CT Scan to Detect COVID-19**
+# **Project Title: Lungs CT Scan to Detect COVID-19**
 
 **Overview:**
 The "Lungs CT Scan to Detect COVID-19" project addresses the critical need for an accurate and efficient tool to identify COVID-19 infection through the analysis of chest CT scans. By leveraging advanced techniques in image processing, machine learning, and deep neural networks, this project contributes to the early and reliable detection of COVID-19 based on visual patterns in lung CT scans.
